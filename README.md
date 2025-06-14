@@ -5,7 +5,7 @@ I'm making this repo to help guide anyone that is studying for the SC200 Exam be
 
 This repo will include:
 - My study plan
-- Practice questions + Post exam tips
+- Post exam tips
 - Topic breakdowns (Sentinel, Defender XDR, KQL, and more)
 - Resources and lab links
 - My notes 
